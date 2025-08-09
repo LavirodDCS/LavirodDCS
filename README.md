@@ -77,12 +77,10 @@
 ---
 
 ## ⏳ Linha do Tempo Profissional
-
-- **2021** → Conclusão do Ensino Médio  
-- **2022-2025** → Graduação em Redes de Computadores  
+ 
+- **2023-2025** → Graduação em Redes de Computadores  
 - **2023** → Início de projetos com Docker, servidores Linux e redes  
-- **2024** → Desenvolvimento de sistemas de monitoramento e segurança  
-- **2025** → Criação do portfólio no GitHub  
+- **2024-2025** → Desenvolvimento de sistemas de monitoramento e segurança    
 
 ---
 
