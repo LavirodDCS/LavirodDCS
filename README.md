@@ -1,38 +1,67 @@
-<!-- Banner Animado -->
-![Banner](https://i.imgur.com/dM7Thhn.gif)
+# 👋 Olá, eu sou Dorival Costa
 
-# Olá, eu sou Dorival Costa 👋
+💻 Graduando em **Redes de Computadores** (conclusão prevista: junho/2025)  
+🛠 Entusiasta de **Infraestrutura, Redes, Automação e Monitoramento**  
+📍 Brasil  
 
-💻 Graduando em **Redes de Computadores** | 🛠 Entusiasta de **Infraestrutura, Redes e Automação** | 📍 Brasil  
-🚀 Experiência prática com **servidores Linux**, **monitoramento**, **containers** e **redes**.  
+🚀 Experiência prática com **servidores Linux**, **containers**, **monitoramento**, **redes** e **administração de serviços**.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
+**Sistemas Operacionais e Ambientes**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**Containers e Orquestração**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+**Monitoramento e Visualização**  
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**Redes e Segurança**  
+![Tailscale](https://img.shields.io/badge/Tailscale-3D3D3D?style=for-the-badge&logo=tailscale&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Linguagens e Scripts**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas e Serviços**  
+![GLPI](https://img.shields.io/badge/GLPI-2E74B5?style=for-the-badge)
+![VoceChat](https://img.shields.io/badge/VoceChat-3D3D3D?style=for-the-badge)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000000?style=for-the-badge)
+![Navidrome](https://img.shields.io/badge/Navidrome-FF8800?style=for-the-badge)
+![CasaOS](https://img.shields.io/badge/CasaOS-00ADEF?style=for-the-badge)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Sistema de Monitoramento Ambiental](#)
+### 🔹 Sistema de Monitoramento Ambiental
 > Monitoramento de temperatura, gases e outros parâmetros em tempo real.  
 **Tecnologias**: InfluxDB, Grafana, Docker, TailscaleVPN.
 
-### 🔹 [Servidor Multiuso em Casa](#)
-> Ambiente Docker com múltiplos serviços de estudo e uso pessoal.  
-**Tecnologias**: GLPI, VoceChat, Vaultwarden, Navidrome, CasaOS, Zabbix.
+### 🔹 Servidor Multiuso em Casa (DCS Server)
+> Ambiente Docker com múltiplos serviços de estudo e uso pessoal, incluindo:  
+- GLPI (inventário e chamados)  
+- VoceChat (chat seguro)  
+- Vaultwarden (gerenciador de senhas)  
+- Navidrome (streaming de música)  
+- CasaOS (interface de gerenciamento)  
+- Zabbix (monitoramento)  
+- Grafana e InfluxDB (dashboards e métricas)  
+- Portainer (gerenciamento de containers)  
+- TailscaleVPN e Cloudflare Tunnel (acesso remoto seguro)  
 
 ---
 
