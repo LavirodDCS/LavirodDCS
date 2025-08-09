@@ -1,6 +1,6 @@
 # Olá, eu sou Dorival Costa
 
-💻 Graduando em **Redes de Computadores** (conclusão prevista: junho/2025)  
+💻 Graduando em **Redes de Computadores** (conclusão prevista: 2025)  
 🛠 Entusiasta de **Infraestrutura, Redes, Automação e Monitoramento**  
 📍 Brasil  
 
