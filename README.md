@@ -49,7 +49,7 @@
 
 ### 🔹 Sistema de Monitoramento Ambiental
 > Monitoramento de temperatura, gases e outros parâmetros em tempo real.  
-**Tecnologias**: InfluxDB, Grafana, Zabbix, Arduíno, ESP32, Sensores IoT, Docker, TailscaleVPN.
+**Tecnologias**: InfluxDB, Grafana, Zabbix, Arduíno, ESP32, Sensores IoT, Docker, LoRA, TailscaleVPN.
 
 ### 🔹 Servidor Multiuso em Casa (DCS Server)
 > Ambiente Docker com múltiplos serviços de estudo e uso pessoal, incluindo:  
